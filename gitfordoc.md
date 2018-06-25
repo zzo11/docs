@@ -46,7 +46,7 @@ In some cases when files changed on a bug branch overlap with those changed on a
 
 Taking a release branch as an example, the typical workflow is presented in the figure below:
 
-![](C:\Users\david\Desktop\gitfordoc\assets\workflow.png)
+![](assets/workflow.png)
 
 For major changes or brand new doc, technical writer reviews the outline and the doc first before editing on the branch. 
 
@@ -75,4 +75,4 @@ To add a new file:
 
 To make changes on a branch other than master, you need to firstly switch to that branch doc set by selecting the branch name in the Branch list. Then you can follow the same steps as described above for updating the master documents.
 
-![](assets\switchbranch.png)
+![](assets/switchbranch.png)
