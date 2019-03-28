@@ -101,8 +101,8 @@
             href: node/cli/latest-version/api/getversion.md
           - name: getwalletheight
             href: node/cli/latest-version/api/getwalletheight.md
-          - name: importkey
-            href: node/cli/latest-version/api/importkey.md
+          - name: importprivkey
+            href: node/cli/latest-version/api/importprivkey.md
           - name: invoke
             href: node/cli/latest-version/api/invoke.md
           - name: invokefunction
