@@ -78,7 +78,7 @@ Download and install  [.NET Core 2.0.3](https://www.microsoft.com/net/download/m
 The basic syntax is 
 
 ```
-dotnet neon.dll <your smart contract.dll>
+dotnet neon.dll <your smart contract.dll> --compatible
 ```
 
  `neon.dll` is the file from Step 3. In our example `sample_contract.dll` would be our smart contract. The output should look like this
